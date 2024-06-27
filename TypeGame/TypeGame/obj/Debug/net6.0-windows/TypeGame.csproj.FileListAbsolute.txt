@@ -1,0 +1,17 @@
+C:\Users\16507\Desktop\C#\Ch4\TypeGame\TypeGame\bin\Debug\net6.0-windows\TypeGame.exe
+C:\Users\16507\Desktop\C#\Ch4\TypeGame\TypeGame\bin\Debug\net6.0-windows\TypeGame.deps.json
+C:\Users\16507\Desktop\C#\Ch4\TypeGame\TypeGame\bin\Debug\net6.0-windows\TypeGame.runtimeconfig.json
+C:\Users\16507\Desktop\C#\Ch4\TypeGame\TypeGame\bin\Debug\net6.0-windows\TypeGame.dll
+C:\Users\16507\Desktop\C#\Ch4\TypeGame\TypeGame\bin\Debug\net6.0-windows\TypeGame.pdb
+C:\Users\16507\Desktop\C#\Ch4\TypeGame\TypeGame\obj\Debug\net6.0-windows\TypeGame.csproj.AssemblyReference.cache
+C:\Users\16507\Desktop\C#\Ch4\TypeGame\TypeGame\obj\Debug\net6.0-windows\TypeGame.Form1.resources
+C:\Users\16507\Desktop\C#\Ch4\TypeGame\TypeGame\obj\Debug\net6.0-windows\TypeGame.csproj.GenerateResource.cache
+C:\Users\16507\Desktop\C#\Ch4\TypeGame\TypeGame\obj\Debug\net6.0-windows\TypeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16507\Desktop\C#\Ch4\TypeGame\TypeGame\obj\Debug\net6.0-windows\TypeGame.AssemblyInfoInputs.cache
+C:\Users\16507\Desktop\C#\Ch4\TypeGame\TypeGame\obj\Debug\net6.0-windows\TypeGame.AssemblyInfo.cs
+C:\Users\16507\Desktop\C#\Ch4\TypeGame\TypeGame\obj\Debug\net6.0-windows\TypeGame.csproj.CoreCompileInputs.cache
+C:\Users\16507\Desktop\C#\Ch4\TypeGame\TypeGame\obj\Debug\net6.0-windows\TypeGame.dll
+C:\Users\16507\Desktop\C#\Ch4\TypeGame\TypeGame\obj\Debug\net6.0-windows\refint\TypeGame.dll
+C:\Users\16507\Desktop\C#\Ch4\TypeGame\TypeGame\obj\Debug\net6.0-windows\TypeGame.pdb
+C:\Users\16507\Desktop\C#\Ch4\TypeGame\TypeGame\obj\Debug\net6.0-windows\TypeGame.genruntimeconfig.cache
+C:\Users\16507\Desktop\C#\Ch4\TypeGame\TypeGame\obj\Debug\net6.0-windows\ref\TypeGame.dll
